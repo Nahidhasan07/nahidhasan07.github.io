@@ -1,0 +1,38 @@
+# Ignore the contents of the _site directory and other cache directories
+_site/
+.sass-cache/
+
+# Ignore the directory for local files during development
+local/
+
+# Ignore the Gemfile that is generated
+Gemfile.lock
+
+# Ignore files created by npm
+node_modules
+package-lock.json
+
+# Ignore the vendor file at root level and bundle for alternative installation
+/vendor/
+.bundle/
+
+# Ignore folders related to IDEs
+.vscode/
+
+# Ignore files created by MacOS
+.DS_Store
+
+# Only About, Publications, and CV are live right now - keep the rest
+# of the theme's content types off the repo until/unless they're needed.
+_talks/
+_teaching/
+_portfolio/
+_pages/talks.html
+_pages/teaching.html
+_pages/portfolio.html
+markdown_generator/talks.tsv
+markdown_generator/talks.py
+markdown_generator/talks.ipynb
+
+# Scratch/notes files, not site content
+z.txt
