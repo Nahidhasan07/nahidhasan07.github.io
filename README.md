@@ -1,6 +1,6 @@
 # nahidhasan07.github.io
 
-Personal academic website, built on the <a href="https://github.com/academicpages/academicpages.github.io" target="_blank" rel="noopener noreferrer">academicpages</a> Jekyll theme and hosted on GitHub Pages at <a href="https://nahidhasan07.github.io" target="_blank" rel="noopener noreferrer">nahidhasan07.github.io</a>.
+Personal academic website, built on the [academicpages](https://github.com/academicpages/academicpages.github.io) Jekyll theme and hosted on GitHub Pages at [nahidhasan07.github.io](https://nahidhasan07.github.io).
 
 ## Structure
 
