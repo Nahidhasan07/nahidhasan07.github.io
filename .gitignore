@@ -22,14 +22,12 @@ package-lock.json
 # Ignore files created by MacOS
 .DS_Store
 
-# Only About, Publications, and CV are live right now - keep the rest
-# of the theme's content types off the repo until/unless they're needed.
+# Only About, Publications, Projects, and CV are live right now - keep
+# the rest of the theme's content types off the repo until/unless needed.
 _talks/
 _teaching/
-_portfolio/
 _pages/talks.html
 _pages/teaching.html
-_pages/portfolio.html
 markdown_generator/talks.tsv
 markdown_generator/talks.py
 markdown_generator/talks.ipynb

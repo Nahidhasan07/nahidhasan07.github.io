@@ -22,10 +22,10 @@ repository               : "Nahidhasan07/nahidhasan07.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cropped_nahid.png"
+  avatar           : "cropped_nahid_1.png"
   name             : "Md. Nahid Hasan"
   pronouns         : # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar" # TODO
+  bio              : "Short biography" # TODO
   location         : # TODO
   employer         : # TODO
   uri              : # URL
@@ -225,7 +225,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -271,10 +271,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
